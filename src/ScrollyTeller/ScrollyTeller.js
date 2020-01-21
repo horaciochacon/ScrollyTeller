@@ -348,7 +348,6 @@ export default class ScrollyTeller {
       sectionConfig.scroller
         .setup({
           step: `#${sectionId} .${css.narrationBlock}`,
-          graphic: `#${graphContainerId}`,
           offset: TRIGGER_OFFSET,
           progress: true,
         })
