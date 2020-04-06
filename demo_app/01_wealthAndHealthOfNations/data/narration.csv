@@ -1,5 +1,5 @@
 narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
-,intro,40,40,50,Building a data story with ScrollyTeller,"To demonstrate ScrollyTeller's functionality we'll implement a simple data story using Hans Rosling's famous ""Wealth and Health of Nations"" animated bubble plot.<br><br>This data is from <a style=""display: inline;"" target=""blank"" href=""https://www.gapminder.org/"">gapminder.org,</a> and the chart was modified from <a  style=""display: inline;"" href=""https://robisateam.github.io/courses/d3-course/"" target=""blank"">this excellent d3 tutorial.</a>",,,"{
+,intro,40,40,50,Prueba nœmero uno de ScrollyTeller,Vamos a demostrar las funciones de scrolly teller,,,"{
 	""containerStyle"": {
 		""opacity"": 1
 	},
